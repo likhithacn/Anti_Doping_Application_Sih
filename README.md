@@ -19,6 +19,44 @@ The Anti-Doping web application project has several features, including:
 
 - Doping Control Forms: The web application has a form for doping control officers to report the results of doping tests.
 
+
+## Getting Started---:
+
+1 To run the Anti-Doping web application locally, follow these steps:
+```
+git clone https://github.com/your-username/Anti_Doping_Application_Sih.git
+
+```
+2 Change directory into the project:
+
+```
+cd Anti_Doping_Application_Sih
+```
+
+3 Install the required dependencies: 
+
+```
+pip install -r requirements.txt
+
+```
+4 Create the SQLite3 database:
+```
+python manage.py migrate
+```
+5 Create a superuser for the application:
+```
+python manage.py createsuperuser
+```
+6 Start the development server:
+```
+python manage.py runserver
+```
+
+
+
+
+
+
 ## Technologies Used:
 The Anti-Doping web application was developed using the following technologies:
 
