@@ -5,6 +5,11 @@ This Project is built for Ministry of Sports and Youth Affair, Government of Ind
 ## Introduction:
 The Anti-Doping web application project is aimed at promoting clean sports and raising awareness about the negative effects of doping on athletes' health and performance. The project was developed using Django, SQLite3, HTML, CSS, and JavaScript technologies in the Smart India Hackathon 2022 competition. This report presents an overview of the project, its features, and the technologies used in its development.
 
+<img src= "home1.png">
+
+
+
+
 *Features:*
 
 The Anti-Doping web application project has several features, including:
