@@ -73,3 +73,9 @@ HTML, CSS, and JavaScript: These technologies were used to create the front-end 
 
 #Conclusion:
 The Anti-Doping web application project is an important contribution to the promotion of clean sports and the fight against doping in sports. It provides a platform for athletes to take an anti-doping pledge, access educational resources, and report doping violations. The project was developed using Django, SQLite3, HTML, CSS, and JavaScript technologies in the Smart India Hackathon 2022 competition. Overall, the project showcases the power of technology to promote positive social change and highlights the importance of clean sports and fair play.
+
+## look of the Project 
+
+## User Dashboard 
+
+<img src= "userdash1.png">
